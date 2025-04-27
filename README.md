@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uzairghazi23&label=Profile%20views&color=0e75b6&style=flat" alt="uzairghazi23" /> </p>
 
-- 🔭 I’m currently working on **FitGenius**
+- 🔭 I’m currently working on **Projexia**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Js**
 
 - 💬 Ask me about **AI and Machine Learning**
 
